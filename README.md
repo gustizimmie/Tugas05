@@ -1,0 +1,2 @@
+# PenghitungKata
+ Aplikasi Penghitung Kata
